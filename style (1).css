@@ -1,0 +1,61 @@
+﻿.img img{
+    height:150px;
+    width:200px;
+    border-radius:360px;
+ 
+}
+.img{
+    background-color:white;
+    width:220px;
+    height:1000px;
+    float:left;
+    margin-top:10px;
+}
+.name_details{
+    margin-top:10px;
+    background-color:darkcyan;
+    float:right;
+    height:200px;
+    width:1100px;
+}
+.uper_details{
+
+    color:white;
+    margin-left:8px;
+}
+.headings {
+    margin-left: 5px;
+   
+    font-size:larger;
+}
+.details {
+    margin-left: 5px;
+    font-size:large;
+}
+#skills, #languages {
+    border-bottom: 2px solid darkcyan;
+    width: 150px;
+}
+.skills_color {
+    background-color: darkcyan;
+    color:white;
+    font-size:larger;
+   
+}
+.work {
+    float:left;
+    
+   
+}
+.workh1, .organizations, #educations {
+    border-bottom: 2px solid darkcyan;
+    width: 1000px;
+}
+.workh1,.headings,.experince {
+    color: darkcyan;
+}
+.experince_details ul li,.PROJECTS ul li {
+   
+    font-style: italic;
+}
+
